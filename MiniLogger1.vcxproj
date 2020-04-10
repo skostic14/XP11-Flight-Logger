@@ -88,7 +88,7 @@
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <TargetName>MINILOGGER1</TargetName>
+    <TargetName>win</TargetName>
     <LinkIncremental>false</LinkIncremental>
     <TargetExt>.xpl</TargetExt>
     <IncludePath>C:\Users\neobu\Desktop\Slobodan\X-Plane\Projects\SDK\CHeaders;$(IncludePath)</IncludePath>
